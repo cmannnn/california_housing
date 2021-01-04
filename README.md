@@ -10,3 +10,5 @@ Steps to undertake:
 6. Fine tune model
 7. Present solution
 8. Launch, monitor, and maintain system
+
+Let's go!
